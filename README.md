@@ -1,1 +1,1 @@
-# Dynamic-Programing-By-Aditya-Verma
+# Dynamic-Programming-By-Aditya-Verma
